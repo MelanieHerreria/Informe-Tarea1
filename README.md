@@ -24,8 +24,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución debe estar en esta sección, no como un archivo anexo.
 ![image](https://user-images.githubusercontent.com/105259459/168798246-4c3119d9-c728-4e95-bd7d-cc78bee7713b.png)
 ![image](https://user-images.githubusercontent.com/105259459/168798738-cddc2c41-1f39-4e45-82ca-6d5c9b9ae69c.png)
-![image](https://user-images.githubusercontent.com/105259459/168799035-7dfeab2b-f775-4eef-a4c3-c28ee624ed7a.png)
-![image](https://user-images.githubusercontent.com/105259459/168799293-b121684d-458d-4ed5-bf37-8329fd10ffde.png)
+![image](https://user-images.githubusercontent.com/105259459/168799892-67365e93-1782-439b-a04b-ddf2716104e0.png)
+![image](https://user-images.githubusercontent.com/105259459/168800041-83033365-2c98-41c9-992f-ff46d0b73628.png)
 
 VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementacion del proyecto. En el video se debe explicar 4 ejercicios o problemas.
