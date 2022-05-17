@@ -1,6 +1,6 @@
 # Informe-Tarea1
-OBJETIVOS
-Los objetivos deben responder claramente a la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para responder a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación.
+OBJETIVOSE
+Comprender los temas sobre cantidades, unidades, voltaje, resistecia y corriente, mediante la lectura del libro "Principios de circuitos eletricos " de Floyd
 
 Los objetivos generales dan origen a objetivos que especifican lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos los específicos que se investigan y no el objetivo general, ya que este se logra de los resultados.
 
@@ -19,6 +19,7 @@ Considere la Taxonomía de Bloom
 MARCO TEÓRICO (RESUMEN)
 ![Cantidades y unidades](https://user-images.githubusercontent.com/105259459/168797271-2420cee1-f6d4-411d-86e4-231dedd2ee45.png)
 ![Carga electrica](https://user-images.githubusercontent.com/105259459/168797337-e51b9b5e-b443-4100-bcfa-442aa0077c42.png)
+![Corriente, resistencia y voltaje](https://user-images.githubusercontent.com/105259459/168820011-7a739689-d609-402e-9f24-39ab958dfdcf.png)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución debe estar en esta sección, no como un archivo anexo.
