@@ -22,6 +22,7 @@ MARCO TEÓRICO (RESUMEN)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución debe estar en esta sección, no como un archivo anexo.
+![image](https://user-images.githubusercontent.com/105259459/168798246-4c3119d9-c728-4e95-bd7d-cc78bee7713b.png)
 
 VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementacion del proyecto. En el video se debe explicar 4 ejercicios o problemas.
