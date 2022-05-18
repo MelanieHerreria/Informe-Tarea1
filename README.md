@@ -29,6 +29,7 @@ CAPITULO 1
 CAPITULO 2
 
 ![image](https://user-images.githubusercontent.com/105259459/168869924-a09eff04-4fb0-4881-a78a-645231ab5fad.png)
+![image](https://user-images.githubusercontent.com/105259459/168873625-37717340-28e2-4081-b306-58895f70ae78.png)
 
 CONCLUSIONES
 
