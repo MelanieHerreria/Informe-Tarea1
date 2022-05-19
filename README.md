@@ -204,19 +204,25 @@ presente en la figura 2-70.
 
 ![image](https://user-images.githubusercontent.com/105259459/169256287-d3e96a39-b4a0-4bb9-962e-3e722e9eb415.png)
 
+![image](https://user-images.githubusercontent.com/105259459/169335031-487d7b12-74a7-465b-ad44-ee7ed054af6f.png)
 
 
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
+Su resolucion maxima es de 19.999
+
+**VIDEO**
+
+https://www.youtube.com/watch?v=rALHuAy6Afs
 
 
-CONCLUSIONES
+**CONCLUSIONES**
 
 -Se definió los conceptos aprendidos por medio de un resumen utilizando mapas conceptuales, con respecto a las 2 unidades de medición las cuales son fundamentales y derivadas, existen 7 unidades fundamentales, pero para electrónica se usan las unidades derivadas. Se definió lo que es notación científica y notación de ingeniería, las cuales son similares, se diferencian en que la notación de ingeniería tiene 1 a 3 dígitos a la izquierda del punto decimal y eleva la potencia de diez a múltiplos de 3. También los prefijos métricos se utilizan junto a la notación de ingeniería ya que son potencias de diez elevada a múltiplos de 3, e muy importante saber esto ya que se utilizó en los ejercicios propuestos.
 
 -En la resolución de los ejercicios se aplicó lo que comprendido de los capítulos 1 y 2y se vio que la relación de voltaje, corriente y resistencia es bastante útil ya que si se emplea de manera adecuada los conocimientos adquiridos se puede solucionar de manera fácil los problemas.  
 
-BIBLIOGRAFÍA
+**BIBLIOGRAFIA**
 Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 RÚBRICA
